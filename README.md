@@ -1,2 +1,2 @@
 # FirstUnity-Game
-My first unity test game. 
+My first unity game. I hope you like it!
