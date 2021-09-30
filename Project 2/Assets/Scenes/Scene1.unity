@@ -381,7 +381,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   controller: {fileID: 588277387}
-  speed: 12
+  speed: 20
   gravity: -19.62
   jumpHeight: 3
   groundCheck: {fileID: 853613480}
@@ -510,7 +510,7 @@ GameObject:
   m_Component:
   - component: {fileID: 995060101}
   m_Layer: 0
-  m_Name: Environment
+  m_Name: Obects
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
